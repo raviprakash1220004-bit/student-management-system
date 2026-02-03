@@ -21,7 +21,7 @@ This project demonstrates **OOPs concepts, file handling, input validation, and 
 
 ---
 
-# Sample Output
+## Sample Output
 Roll       Name                 Class      Parent Phone
 -------------------------------------------------------------
 107        Rahul Prakash        12th        9876543210
